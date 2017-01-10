@@ -1,0 +1,554 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fa" lang="fa">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>صفحه یافت نشد! &raquo; پخش زنده ی شبکه های تلویزیونی و رادیوئی - صدا و سیمای جمهوری اسلامی ایران</title>
+<meta name="description" content="351651" />
+<meta name="keywords" content="تغییر, شرمنده" />
+<meta name="generator" content="Parastoo Framework v2.4 (http://phpmasters.ir/)" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://www1.live.irib.ir/engine/opensearch.php" title="پخش زنده ی شبکه های تلویزیونی و رادیوئی - صدا و سیمای جمهوری اسلامی ایران" />
+<script type="text/javascript" src="/engine/classes/min/index.php?charset=utf-8&amp;g=general&amp;15"></script>
+<script type="text/javascript" src="/engine/classes/min/index.php?charset=utf-8&amp;f=engine/classes/masha/masha.js&amp;15"></script>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" href="/templates/total/images/favicon.ico"/>
+<link rel="stylesheet" href="/templates/total/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="/templates/total/bootstrap/css/bootstrap-theme.min.css">
+<link rel="stylesheet" href="/templates/total/styles/style.min.css">
+<link rel="stylesheet" href="/templates/total/owl-carousel/owl.carousel.min.css">
+<link rel="stylesheet" href="/templates/total/styles/jquery.mCustomScrollbar.min.css">
+<link rel="stylesheet" href="/templates/total/styles/engine.css"/>
+<link rel="stylesheet" href="/templates/total/styles/custom.css">
+<script type="text/javascript" src="/templates/total/player2/jwplayer.js"></script>
+<script type="text/javascript">jwplayer.key="3+6s308YJLdiTbpyVnyzjoO/qW3iY/x+Y18C3A==";</script>
+</head>
+<body>
+<script type="text/javascript">
+<!--
+var prs_root       = '/';var prs_admin      = '';var prs_login_hash = '';var prs_group      = 5;var prs_skin       = 'total';
+var prs_wysiwyg    = '0';var quick_wysiwyg  = '0';var prs_act_lang   = ["بله", "خیر", "قرار دادن", "انصراف", "ذخیره", "حذف", " لطفاً چند لحظه منتظر بمانید..! "];
+var menu_short     = ' ویرایش سریع ';var menu_full      = ' ویرایش کامل ';var menu_profile   = 'مشخصات کاربری';var menu_send      = 'ارسال پیغام خصوصی';
+var menu_uedit     = 'ویرایش کاربر';var prs_info       = 'اطلاعات';var prs_confirm    = 'انجام';var prs_prompt     = 'قرار دادن';
+var prs_req_field  = 'برای ارسال، باید فرم را پر کنید.';var prs_del_agree  = ' آیا شما مطمئنین كه می خواهید این مطلب را حذف كنید؟';var prs_spam_agree = 'آيا شما از نشانه گذاری اين نظر به عنوان اسپم مطمئن هستيد؟ (اين کار باعث حذف تمامی نظرات اين کاربر می شود)';var prs_complaint  = 'پیام شکایت برای مدیریت را وارد نمایید:';
+var prs_big_text   = 'متن وارد شده بیش از حد طولانی هست.';var prs_orfo_title = 'نظرتان را برای مدیریت جهت پیدا کردن مشکل گرامری وارد نمایید.';var prs_p_send     = 'ارسال';var prs_p_send_ok  = 'گزارش شما با موفقیت ارسال شد';var prs_save_ok    = 'تغییرات با موفقیت ذخیره شد.';var prs_del_news   = 'حذف مطلب';
+var allow_prs_delete_news   = false;
+//-->
+</script>
+<header>
+<nav class="navbar navbar-default navbar-fixed-top">
+<div class="container">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+<a class="bthiden" href="#" title="منو اصلی"> منو اصلی <span class="bthiden-menu"></span> </a>
+</button>
+<h1><a class="navbar-brand" href="#" title="title"><img src="/templates/total/images/hlogo.png" alt="پخش زنده شبکه های تلویزیونی و رادیویی" title="پخش زنده شبکه های تلویزیونی و رادیویی" width="202px" height="45px"/></a></h1>
+</div>
+<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+<ul class="nav navbar-nav">
+<li><a href="/" title="صفحه اصلی"> صفحه اصلی <span class="home"></span> </a> </li>
+<li class="dropdown mega-dropdown">
+<a href="#" title="شبکه های تلویزیونی" class="dropdown-toggle" data-toggle="dropdown"> شبکه های تلویزیونی <span class="channel"></span></a>
+<ul class="dropdown-menu mega-dropdown-menu row">
+<h4>معرفی شبکه های تلویزیونی</h4>
+<li class="col-sm-3 col-xs-4">
+<ul>
+<li><h3><a href="#tv1" onclick="playme('tv1')" title="پخش زنده شبکه یک">شبکه یک</a></h3></li>
+<li><h3><a href="#tv2" onclick="playme('tv2')" title="پخش زنده شبکه دو">شبکه دو</a></h3></li>
+<li><h3><a href="#tv3" onclick="playme('tv3')" title="پخش زنده شبکه سه">شبکه سه</a></h3></li>
+<li><h3><a href="#tv4" onclick="playme('tv4')" title="پخش زنده شبکه چهار">شبکه چهار</a></h3></li>
+<li><h3><a href="#tv5" onclick="playme('tv5')" title="پخش زنده شبکه پنج">شبکه پنج</a></h3></li>
+<li><h3><a href="#irinn" onclick="playme('irinn')" title="پخش زنده شبکه خبر">شبکه خبر</a></h3></li>
+<li><h3><a href="#amouzesh" onclick="playme('amouzesh')" title="پخش زنده شبکه آموزش">شبکه آموزش</a></h3></li>
+<li><h3><a href="#ifilm-farsi" onclick="playme('ifilmfa')" title="ifilm farsi پخش زنده شبکه">ifilm فارسی</a></h3></li>
+<li><h3><a href="#ifilm-arabic" onclick="playme('ifilmar')" title="ifilm arabic پخش زنده شبکه">ifilm عربی</a></h3></li>
+<!--<li><h3><a href="#ifilm-engish" onclick="playme('ifilmen')" title="ifilm English پخش زنده شبکه">ifilm انگلیسی</a></h3></li>-->
+</ul>
+</li>
+<li class="col-sm-3 col-xs-4">
+<ul>
+<li><h3><a href="#quran" onclick="playme('quran')" title="پخش زنده شبکه قرآن و معارف اسلامی">قرآن و معارف اسلامی</a></h3></li>
+<li><h3><a href="#mostanad" onclick="playme('mostanad')" title="پخش زنده شبکه مستند">شبکه مستند</a></h3></li>
+<li><h3><a href="#omid" onclick="playme('omid')" title="پخش زنده شبكه امید">شبكه امید</a></h3></li>
+<li><h3><a href="#shoma" onclick="playme('shoma')" title="پخش زنده ی شبكه شما">شبكه شما</a></h3></li>
+<li><h3><a href="#tamasha" onclick="playme('tamasha')" title="پخش زنده ی شبكه تماشا">شبكه تماشا</a></h3></li>
+<li><h3><a href="#alalam" onclick="playme('alalam')" title="پخش زنده شبکه العالم">شبکه العالم</a></h3></li>
+<li><h3><a href="#alkosar" onclick="playme('alkosar')" title="پخش زنده شبکه الکوثر">شبکه الکوثر</a></h3></li>
+<li><h3><a href="#sahar1" onclick="playme('sahar1')" title="پخش زنده شبکه سحر 1">شبکه سحر 1</a></h3></li>
+<li><h3><a href="#sahar2" onclick="playme('sahar2')" title="پخش زنده شبکه سحر 2">شبکه سحر 2</a></h3></li>
+<li><h3><a href="#sahar3" onclick="playme('sahar3')" title="پخش زنده شبکه سحر 3">شبکه سحر 3</a></h3></li>
+</ul>
+</li>
+<li class="col-sm-3 col-xs-4">
+<ul>
+<li><h3><a href="#varzesh" onclick="playme('varzesh')" title="پخش زنده شبکه ورزش">شبکه ورزش</a></h3></li>
+<li><h3><a href="#salamat" onclick="playme('salamat')" title="پخش زنده شبکه سلامت">شبکه سلامت</a></h3></li>
+<li><h3><a href="#namayesh" onclick="playme('namayesh')" title="پخش زنده شبکه نمایش">شبکه نمایش</a></h3></li>
+<li><h3><a href="#pouya" onclick="playme('pouya')" title="پخش زنده شبکه کودک و نوجوان">شبکه کودک و نوجوان</a></h3></li>
+<li><h3><a href="#nasim" onclick="playme('nasim')" title="پخش زنده شبکه نسیم">شبکه نسیم</a></h3></li>
+<li><h3><a href="#ofogh" onclick="playme('ofogh')" title="پخش زنده شبکه افق">شبکه افق</a></h3></li>
+<li><h3><a href="#jjtvn1" onclick="playme('jjtvn1')" title="پخش زنده شبکه جهانی جام جم">شبکه جهانی جام جم</a></h3></li>
+<li><h3><a href="#presstv" onclick="playme('presstv')" title="پخش زنده شبکه پرس تی وی">شبکه پرس تی وی</a></h3></li>
+</ul>
+</li>
+<div class="clearfix"></div>
+<h4>معرفی شبکه های استانی</h4>
+<li class="col-sm-3 col-xs-4">
+<ul>
+<li><h3><a href="#alborz" onclick="playme('alborz')" title="پخش زنده شبکه البرز">شبکه البرز</a></h3></li>
+<li><h3><a href="#azarbayjan" onclick="playme('azarbayjan')" title="پخش زنده شبکه آذربایجان">شبکه آذربایجان</a></h3></li>
+<li><h3><a href="#bushehr" onclick="playme('bushehr')" title="پخش زنده شبکه بوشهر">شبکه بوشهر</a></h3></li>
+<li><h3><a href="#dena" onclick="playme('dena')" title="پخش زنده شبکه دنا">شبکه دنا</a></h3></li>
+<li><h3><a href="#eshragh" onclick="playme('eshragh')" title="پخش زنده شبکه اشراق">شبکه اشراق</a></h3></li>
+<li><h3><a href="#hamedan" onclick="playme('hamedan')" title="پخش زنده شبکه همدان">شبکه همدان</a></h3></li>
+<li><h3><a href="#hamoon" onclick="playme('hamoon')" title="پخش زنده شبکه هامون">شبکه هامون</a></h3></li>
+<li><h3><a href="#jahanbin" onclick="playme('jahanbin')" title="پخش زنده شبکه جهان بین">شبکه جهان بین</a></h3></li>
+<li><h3><a href="#kerman" onclick="playme('kerman')" title="پخش زنده شبکه کرمان">شبکه کرمان</a></h3></li>
+<li><h3><a href="#noor" onclick="playme('noor')" title="پخش زنده شبکه نور">شبکه نور</a></h3></li>
+<li><h3><a href="#aflak" onclick="playme('aflak')" title="پخش زنده شبکه افلاک">شبکه افلاک</a></h3></li>
+<li><h3><a href="#mazandaran" onclick="playme('mazandaran')" title="پخش زنده شبکه مازندران">شبکه مازندران</a></h3></li>
+</ul>
+</li>
+<li class="col-sm-3 col-xs-4">
+<ul>
+<li><h3><a href="#qazvin" onclick="playme('qazvin')" title="پخش زنده شبکه قزوین">شبکه قزوین</a></h3></li>
+<li><h3><a href="#taban" onclick="playme('taban')" title="پخش زنده شبکه تابان">شبکه تابان</a></h3></li>
+<li><h3><a href="#esfahan" onclick="playme('esfahan')" title="پخش زنده شبکه اصفهان">شبکه اصفهان</a></h3></li>
+<li><h3><a href="#fars" onclick="playme('fars')" title="پخش زنده شبکه فارس">شبکه فارس</a></h3></li>
+<li><h3><a href="#khalijefars" onclick="playme('khalijefars')" title="شبکه خلیج فارس">شبکه خلیج فارس</a></h3></li>
+<li><h3><a href="#khoozestan" onclick="playme('khoozestan')" title="پخش زنده شبکه خوزستان">شبکه خوزستان</a></h3></li>
+<li><h3><a href="#baran" onclick="playme('baran')" title="پخش زنده شبکه باران">شبکه باران</a></h3></li>
+<li><h3><a href="#kordestan" onclick="playme('kordestan')" title="پخش زنده شبکه کردستان">شبکه کردستان</a></h3></li>
+<li><h3><a href="#sahand" onclick="playme('sahand')" title="پخش زنده شبکه سهند">شبکه سهند</a></h3></li>
+<li><h3><a href="#semnan" onclick="playme('semnan')" title="پخش زنده شبکه سمنان">شبکه سمنان</a></h3></li>
+<li><h3><a href="#kish" onclick="playme('kish')" title="پخش زنده شبکه کیش">شبکه کیش</a></h3></li>
+</ul>
+</li>
+<li class="col-sm-3 col-xs-4">
+<ul>
+<li><h3><a href="#khorasanrazavi" onclick="playme('khorasanrazavi')" title="پخش زنده شبکه خراسان رضوی">شبکه خراسان رضوی</a></h3></li>
+<li><h3><a href="#ilam" onclick="playme('ilam')" title="پخش زنده شبکه ایلام">شبکه ایلام</a></h3></li>
+<li><h3><a href="#kermanshah" onclick="playme('kermanshah')" title="پخش زنده شبکه کرمانشاه">شبکه کرمانشاه</a></h3></li>
+<li><h3><a href="#abadan" onclick="playme('abadan')" title="پخش زنده شبکه آبادان">شبکه آبادان</a></h3></li>
+<li><h3><a href="#aftab" onclick="playme('aftab')" title="پخش زنده شبکه آفتاب">شبکه آفتاب</a></h3></li>
+<li><h3><a href="#khorasan-jonoobi" onclick="playme('khorasanjonoobi')" title="پخش زنده شبکه خراسان جنوبی">خراسان جنوبی</a></h3></li>
+<li><h3><a href="#khorasan-shomali" onclick="playme('khorasanshomali')" title="پخش زنده شبکه خراسان شمالی">خراسان شمالی</a></h3></li>
+<li><h3><a href="#golestan" onclick="playme('golestan')" title="پخش زنده شبکه گلستان">شبکه گلستان</a></h3></li>
+<li><h3><a href="#mahabad" onclick="playme('mahabad')" title="پخش زنده شبکه مهاباد">شبکه مهاباد</a></h3></li>
+<li><h3><a href="#sabalan" onclick="playme('sabalan')" title="پخش زنده شبکه سبلان">شبکه سبلان</a></h3></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="dropdown mega-dropdown radiowrpp">
+<a href="#" title="شبکه های رادیویی" class="dropdown-toggle" data-toggle="dropdown"> شبکه های رادیویی <span class="wave"></span></a>
+<ul class="dropdown-menu mega-dropdown-menu row radiowrp">
+<h4>معرفی شبکه های رادیویی</h4>
+<li class="col-sm-3 col-xs-4">
+<ul>
+<li><h3><a onclick="playra('r-ava')" href="#r-ava" title=" پخش زنده رادیو آوا">رادیو آوا</a></h3></li>
+<li><h3><a onclick="playra('r-eghtesad')" href="#r-eghtesad" title=" پخش زنده رادیو اقتصاد">رادیو اقتصاد</a></h3></li>
+<li><h3><a onclick="playra('r-iran')" href="#r-iran" title=" پخش زنده رادیو ایران">رادیو ایران</a></h3></li>
+<li><h3><a onclick="playra('r-payam')" href="#r-payam" title=" پخش زنده رادیو پیام">رادیو پیام</a></h3></li>
+<li><h3><a onclick="playra('r-tehran')" href="#r-tehran" title=" پخش زنده رادیو تهران">رادیو تهران</a></h3></li>
+<li><h3><a onclick="playra('r-javan')" href="#r-javan" title=" پخش زنده رادیو جوان">رادیو جوان</a></h3></li>
+<li><h3><a onclick="playra('r-salamat')" href="#r-salamat" title=" پخش زنده رادیو سلامت">رادیو سلامت</a></h3></li>
+<li><h3><a onclick="playra('r-farhang')" href="#r-farhang" title=" پخش زنده رادیو فرهنگ">رادیو فرهنگ</a></h3></li>
+<li><h3><a onclick="playra('r-fasli')" href="#r-saba" title=" پخش زنده رادیو صبا">رادیو صبا</a></h3></li>
+<li><h3><a onclick="playra('r-quran')" href="#r-quran" title=" پخش زنده رادیو قرآن">رادیو قرآن</a></h3></li>
+<li><h3><a onclick="playra('r-goftegoo')" href="#r-goftegoo" title=" پخش زنده رادیو گفت و گو">رادیو گفت و گو</a></h3></li>
+<li><h3><a onclick="playra('r-arbaeen')" href="#r-arbaeen" title=" پخش زنده رادیو اربعين">رادیو اربعين</a></h3></li>
+</ul>
+</li>
+<li class="col-sm-4 col-xs-5 bigvewmenu">
+<ul>
+
+<li><h3><a onclick="playra('r-maaref')" href="#r-maaref" title=" پخش زنده رادیو معارف">رادیو معارف</a></h3></li>
+<li><h3><a onclick="playra('r-talavat')" href="#r-maaref" title=" پخش زنده رادیو تلاوت">رادیو تلاوت</a></h3></li>
+<li><h3><a onclick="playra('r-namayesh')" href="#r-namayesh" title=" پخش زنده رادیو نمایش">رادیو نمایش</a></h3></li>
+<li><h3><a onclick="playra('r-varzesh')" href="#r-varzesh" title=" پخش زنده رادیو ورزش">رادیو ورزش</a></h3></li>
+<li><h3><a onclick="playra('r-dari')" href="#r-dari" title=" پخش زنده رادیو دری">رادیو دری</a></h3></li>
+<li><h3><a onclick="playra('r-torkaman')" href="#r-torkaman" title="پخش زنده ی رادیو ترکمن">رادیو ترکمن</a></h3></li>
+<li><h3><a onclick="playra('r-aran')" href="#r-aran" title="پخش زنده ی رادیو آران">رادیو آران</a></h3></li>
+<li><h3><a onclick="playra('r-world1')" href="#r-world1" title=" پخش زنده رادیو برون مرزی 1">رادیو برون مرزی 1</a></h3></li>
+<li><h3><a onclick="playra('r-world2')" href="#r-world2" title=" پخش زنده رادیو برون مرزی 2">رادیو برون مرزی 2</a></h3></li>
+<li><h3><a onclick="playra('r-world3')" href="#r-world3" title=" پخش زنده رادیو برون مرزی 3">رادیو برون مرزی 3</a></h3></li>
+<li><h3><a onclick="playra('r-world4')" href="#r-world4" title=" پخش زنده رادیو برون مرزی 4">رادیو برون مرزی 4</a></h3></li>
+<li><h3><a onclick="playra('r-world5')" href="#r-world5" title=" پخش زنده رادیو برون مرزی 5">رادیو برون مرزی 5</a></h3></li>
+<li><h3><a onclick="playra('r-world6')" href="#r-world6" title=" پخش زنده رادیو برون مرزی 6">رادیو برون مرزی 6</a></h3></li>
+</ul>
+</li>
+</ul>
+</li>
+<!-- <li><a href="/about.html" title="درباره ی ما"> درباره ی ما <span class="app"></span> </a> </li> -->
+<li><a href="/mobile-app.html" title="اپلیکیشن موبایل"> اپلیکیشن موبایل <span class="apps"></span> </a> </li>
+<li><a href="/contact.html" title="ارتباط با ما"> ارتباط با ما <span class="contact"></span> </a> </li>
+</ul>
+</div>
+</div>
+</nav>
+<!-- <div class="container"> -->
+<h2 style="text-indent: -999999px;"> پخش زنده شبکه های تلویزیونی و رادیویی </h2>
+<!-- </div> -->
+</header>
+
+
+<div class="container">
+    <div class="mainpage">
+        
+        <div id='prs-content'><div class="basecont">
+	<div class="dpad">
+		<h2 class="heading"><span id="news-title">صفحه یافت نشد!</span></h2>
+		<div style="text-align: center;"><!--prs_image_begin:http://www1.live.irib.ir/uploads/posts/2015-06/1434530604_404.jpg|--><img src="/uploads/posts/2015-06/1434530604_404.jpg" alt="" title=""  /><!--prs_image_end--></div>
+<p>&nbsp;</p>
+<div style="text-align: center;">شرمنده! صفحه ممکن هست حذف یا تغییر نام پیدا کرده باشد.<br />مجددا تلاش نمایید.</div>
+		<br clear="all" />
+		<div class="storenumber"></div>
+	</div>
+</div></div>
+    </div>
+</div>
+
+<section class="shwofull">
+<div class="container">
+<section class="ff-container">
+<input id="select-type-all" name="radio-set-1" type="radio" class="ff-selector-type-all" checked="checked"/>
+<label for="select-type-all" class="ff-label-type-all">همه</label>
+<input id="select-type-1" name="radio-set-1" type="radio" class="ff-selector-type-1"/>
+<label for="select-type-1" class="ff-label-type-1">شبکه های سیما</label>
+<input id="select-type-2" name="radio-set-1" type="radio" class="ff-selector-type-2"/>
+<label for="select-type-2" class="ff-label-type-2">شبکه های صدا</label>
+<div class="clr"></div>
+            <ul class="ff-items" id="content-1">
+                <li class="ff-item-type-1">
+                    <img src="/templates/total/images/sima/yek-min.jpg" alt="پخش زنده شبکه یک" title="پخش زنده شبکه یک" width="95px" height="95px"><span>شبکه یک</span>
+                    <a class="morechanalonlist" href="#tv1" title="پخش زنده شبکه یک" onclick="playme('tv1')">مشاهده</a>
+                </li>
+				<li class="ff-item-type-1">
+                    <img src="/templates/total/images/sima/do-min.jpg" alt="پخش زنده شبکه دو" title="پخش زنده شبکه دو" width="95px" height="95px"><span>شبکه دو</span>
+                    <a class="morechanalonlist" href="#tv2" title="پخش زنده شبکه دو" onclick="playme('tv2')">مشاهده</a>
+                </li>
+				<li class="ff-item-type-1">
+                    <img src="/templates/total/images/sima/se-min.jpg" alt="پخش زنده شبکه سه" title="پخش زنده شبکه سه" width="95px" height="95px"><span>شبکه سه</span>
+                    <a class="morechanalonlist" href="#tv3" title="پخش زنده شبکه سه" onclick="playme('tv3')">مشاهده</a>
+                </li>
+				<li class="ff-item-type-1">
+                    <img src="/templates/total/images/sima/char-min.jpg" alt="پخش زنده شبکه چهار" title="پخش زنده شبکه چهار" width="95px" height="95px"><span>شبکه چهار</span>
+                    <a class="morechanalonlist" href="#tv4" title="پخش زنده شبکه چهار" onclick="playme('tv4')">مشاهده</a>
+                </li>
+				<li class="ff-item-type-1">
+                    <img src="/templates/total/images/sima/tehran-min.jpg" alt="پخش زنده شبکه پنج" title="پخش زنده شبکه پنج" width="95px" height="95px"><span>شبکه پنج</span>
+                    <a class="morechanalonlist" href="#tv5" title="پخش زنده شبکه پنج" onclick="playme('tv5')">مشاهده</a>
+                </li>
+				<li class="ff-item-type-1">
+                    <img src="/templates/total/images/sima/khabar-min.jpg" alt="پخش زنده شبکه خبر" title="پخش زنده شبکه خبر" width="95px" height="95px"><span>شبکه خبر</span>
+                    <a class="morechanalonlist" href="#irinn" title="پخش زنده شبکه خبر" onclick="playme('irinn')">مشاهده</a>
+                </li>
+				<li class="ff-item-type-1">
+                    <img src="/templates/total/images/sima/amoozesh-min.jpg" alt="پخش زنده شبکه آموزش" title="پخش زنده شبکه آموزش" width="95px" height="95px"><span>شبکه آموزش</span>
+                    <a class="morechanalonlist" href="#amouzesh" title="پخش زنده شبکه آموزش" onclick="playme('amouzesh')">مشاهده</a>
+                </li>
+				<li class="ff-item-type-1">
+                    <img src="/templates/total/images/sima/ifilm-min.jpg" alt="ifilm farsi پخش زنده شبکه" title="ifilm farsi پخش زنده شبکه" width="95px" height="95px"><span>ifilm farsi شبکه</span>
+                    <a class="morechanalonlist" href="#ifilm-farsi" title="ifilm farsi پخش زنده شبکه" onclick="playme('ifilmfa')">مشاهده</a>
+                </li>
+                <li class="ff-item-type-1">
+                    <img src="/templates/total/images/sima/ifilm-min.jpg" alt="ifilm arabic پخش زنده شبکه" title="ifilm arabic پخش زنده شبکه" width="95px" height="95px"><span>ifilm arabic شبکه</span>
+                    <a class="morechanalonlist" href="#ifilm-arabic" title="ifilm arabic پخش زنده شبکه" onclick="playme('ifilmar')">مشاهده</a>
+                </li>
+                <!--<li class="ff-item-type-1">
+                    <img src="/templates/total/images/sima/ifilm-min.jpg" alt="ifilm english پخش زنده شبکه" title="ifilm english پخش زنده شبکه" width="95px" height="95px"><span>ifilm english شبکه</span>
+                    <a class="morechanalonlist" href="#ifilm-english" title="ifilm english پخش زنده شبکه" onclick="playme('ifilmen')">مشاهده</a>
+                </li>-->
+				<li class="ff-item-type-1">
+                    <img src="/templates/total/images/sima/qor'an-min.jpg" alt="پخش زنده شبکه قرآن و معارف اسلامی" title="پخش زنده شبکه قرآن و معارف اسلامی" width="95px" height="95px"><span>شبکه قرآن و معارف اسلامی</span>
+                    <a class="morechanalonlist" href="#quran" title="پخش زنده شبکه قرآن و معارف اسلامی" onclick="playme('quran')">مشاهده</a>
+                </li>				
+				<li class="ff-item-type-1">
+                    <img src="/templates/total/images/sima/mostanad-min.jpg" alt="پخش زنده شبکه مستند" title="پخش زنده شبکه مستند" width="95px" height="95px"><span>شبکه مستند</span>
+                    <a class="morechanalonlist" href="#mostanad" title="پخش زنده شبکه مستند" onclick="playme('mostanad')">مشاهده</a>
+                </li>				
+				<li class="ff-item-type-1">
+                    <img src="/templates/total/images/sima/varzesh-min.jpg" alt="پخش زنده شبکه ورزش" title="پخش زنده شبکه ورزش" width="95px" height="95px"><span>شبکه ورزش</span>
+                    <a class="morechanalonlist" href="#varzesh" title="پخش زنده شبکه ورزش" onclick="playme('varzesh')">مشاهده</a>
+                </li>
+				<li class="ff-item-type-1">
+                    <img src="/templates/total/images/sima/salamat-min.jpg" alt="پخش زنده شبکه سلامت" title="پخش زنده شبکه سلامت" width="95px" height="95px"><span>شبکه سلامت</span>
+                    <a class="morechanalonlist" href="#salamat" title="پخش زنده شبکه سلامت" onclick="playme('salamat')">مشاهده</a>
+                </li>
+				<li class="ff-item-type-1">
+                    <img src="/templates/total/images/sima/namayesh-min.jpg" alt="پخش زنده شبکه نمایش" title="پخش زنده شبکه نمایش" width="95px" height="95px"><span>شبکه نمایش</span>
+                    <a class="morechanalonlist" href="#namayesh" title="پخش زنده شبکه نمایش" onclick="playme('namayesh')">مشاهده</a>
+                </li>
+				 <li class="ff-item-type-1">
+                    <img src="/templates/total/images/sima/shoma-min.jpg" alt="پخش زنده شبکه شما" title="پخش زنده شبکه شما" width="95px" height="95px"><span>شبکه شما</span>
+                    <a class="morechanalonlist" href="#shoma" title="پخش زنده شبکه شما" onclick="playme('shoma')">مشاهده</a>
+                </li>
+                <li class="ff-item-type-1">
+                    <img src="/templates/total/images/sima/tamasha-min.jpg" alt="پخش زنده شبکه تماشا" title="پخش زنده شبکه تماشا" width="95px" height="95px"><span>شبکه تماشا</span>
+                    <a class="morechanalonlist" href="#tamasha" title="پخش زنده شبکه تماشا" onclick="playme('tamasha')">مشاهده</a>
+                </li>
+				<li class="ff-item-type-1">
+                    <img src="/templates/total/images/sima/poya-min.jpg" alt="پخش زنده شبکه کودک و نوجوان" title="پخش زنده شبکه کودک و نوجوان" width="95px" height="95px"><span>شبکه کودک و نوجوان</span>
+                    <a class="morechanalonlist" href="#pouya" title="پخش زنده شبکه کودک و نوجوان" onclick="playme('pouya')">مشاهده</a>
+                </li>
+                <li class="ff-item-type-1">
+                    <img src="/templates/total/images/sima/omid-min.jpg" alt="پخش زنده شبکه امید" title="پخش زنده شبکه امید" width="95px" height="95px"><span>شبکه امید</span>
+                    <a class="morechanalonlist" href="#omid" title="پخش زنده شبکه امید" onclick="playme('omid')">مشاهده</a>
+                </li>
+				<li class="ff-item-type-1">
+                    <img src="/templates/total/images/sima/nasim-min.jpg" alt="پخش زنده شبکه نسیم" title="پخش زنده شبکه نسیم" width="95px" height="95px"><span>شبکه نسیم</span>
+                    <a class="morechanalonlist" href="#nasim" title="پخش زنده شبکه نسیم" onclick="playme('nasim')">مشاهده</a>
+                </li>				
+				<li class="ff-item-type-1">
+                    <img src="/templates/total/images/sima/ofogh-min.jpg" alt="پخش زنده شبکه افق" title="پخش زنده شبکه افق" width="95px" height="95px"><span>شبکه افق</span>
+                    <a class="morechanalonlist" href="#ofogh" title="پخش زنده شبکه افق" onclick="playme('ofogh')">مشاهده</a>
+                </li>
+				<li class="ff-item-type-1">
+				<img src="/templates/total/images/sima/alalam-min.jpg" alt="پخش زنده شبکه العالم" title="پخش زنده شبکه العالم" width="95px" height="95px"><span>شبکه العالم</span>
+				<a class="morechanalonlist" href="#alalam" title="پخش زنده شبکه العالم" onclick="playme('alalam')">مشاهده</a>
+				</li>
+                <li class="ff-item-type-1">
+				<img src="/templates/total/images/sima/kosar-min.jpg" alt="پخش زنده شبکه الکوثر" title="پخش زنده شبکه الکوثر" width="95px" height="95px"><span>شبکه الکوثر</span>
+				<a class="morechanalonlist" href="#alkosar" title="پخش زنده شبکه الکوثر" onclick="playme('alkosar')">مشاهده</a>
+				</li>
+                <li class="ff-item-type-1">
+				<img src="/templates/total/images/sima/jjtvn1-min.jpg" alt="پخش زنده شبکه جهانی جام جم" title="پخش زنده شبکه جهانی جام جم" width="95px" height="95px"><span>شبکه جهانی جام جم</span>
+				<a class="morechanalonlist" href="#jjtvn1" title="پخش زنده شبکه جهانی جام جم" onclick="playme('jjtvn1')">مشاهده</a>
+				</li>
+                <li class="ff-item-type-1">
+				<img src="/templates/total/images/sima/press-min.jpg" alt="پخش زنده شبکه پرس تی وی" title="پخش زنده شبکه پرس تی وی" width="95px" height="95px"><span>شبکه پرس تی وی</span>
+				<a class="morechanalonlist" href="#presstv" title="پخش زنده شبکه پرس تی وی" onclick="playme('presstv')">مشاهده</a>
+				</li>
+                <li class="ff-item-type-1">
+				<img src="/templates/total/images/sima/sahar1-min.jpg" alt="پخش زنده شبکه سحر 1" title="پخش زنده شبکه سحر 1" width="95px" height="95px"><span>شبکه سحر 1</span>
+				<a class="morechanalonlist" href="#sahar1" title="پخش زنده شبکه سحر 1" onclick="playme('sahar1')">مشاهده</a>
+				</li>
+                <li class="ff-item-type-1">
+				<img src="/templates/total/images/sima/sahar2-min.jpg" alt="پخش زنده شبکه سحر 2" title="پخش زنده شبکه سحر 2" width="95px" height="95px"><span>شبکه سحر 2</span>
+				<a class="morechanalonlist" href="#sahar2" title="پخش زنده شبکه سحر 2" onclick="playme('sahar2')">مشاهده</a>
+				</li>
+                <li class="ff-item-type-1">
+				<img src="/templates/total/images/sima/sahar3-min.jpg" alt="پخش زنده شبکه سحر 3" title="پخش زنده شبکه سحر 3" width="95px" height="95px"><span>شبکه سحر 3</span>
+				<a class="morechanalonlist" href="#sahar3" title="پخش زنده شبکه سحر 3" onclick="playme('sahar3')">مشاهده</a>
+				</li>				
+				<li class="ff-item-type-1">
+				<img src="/templates/total/images/sima/alborz-min.png" alt="پخش زنده شبکه البرز" title="پخش زنده شبکه البرز" width="95px" height="95px"><span>شبکه البرز</span>
+				<a class="morechanalonlist" href="#alborz" title="پخش زنده شبکه البرز" onclick="playme('alborz')">مشاهده</a>
+				</li>
+                <li class="ff-item-type-1">
+				<img src="/templates/total/images/sima/esfahan-min.jpg" alt="پخش زنده شبکه اصفهان" title="پخش زنده شبکه اصفهان" width="95px" height="95px"><span>شبکه اصفهان</span>
+				<a class="morechanalonlist" href="#esfahan" title="پخش زنده شبکه اصفهان" onclick="playme('esfahan')">مشاهده</a>
+				</li>
+                <li class="ff-item-type-1">
+				<img src="/templates/total/images/sima/khoozestan-min.jpg" alt="پخش زنده شبکه خوزستان" title="پخش زنده شبکه خوزستان" width="95px" height="95px"><span>شبکه خوزستان</span>
+				<a class="morechanalonlist" href="#khoozestan" title="پخش زنده شبکه خوزستان" onclick="playme('khoozestan')">مشاهده</a>
+				</li>
+				<li class="ff-item-type-1">
+				<img src="/templates/total/images/sima/khorasanrazavi-min.jpg" alt="پخش زنده شبکه خراسان رضوی" title="پخش زنده شبکه خراسان رضوی" width="95px" height="95px"><span>شبکه خراسان رضوی</span>
+				<a class="morechanalonlist" href="#khorasanrazavi" title="پخش زنده شبکه خراسان رضوی" onclick="playme('khorasanrazavi')">مشاهده</a>
+				</li>
+				<li class="ff-item-type-1">
+				<img src="/templates/total/images/sima/fars-min.jpg" alt="پخش زنده شبکه فارس" title="پخش زنده شبکه فارس" width="95px" height="95px"><span>شبکه فارس</span>
+				<a class="morechanalonlist" href="#fars" title="پخش زنده شبکه فارس" onclick="playme('fars')">مشاهده</a>
+				</li>
+				<li class="ff-item-type-1">
+				<img src="/templates/total/images/sima/khalijefars-min.jpg" alt="پخش زنده شبکه خلیج فارس" title="پخش زنده شبکه خلیج فارس" width="95px" height="95px"><span>شبکه خلیج فارس</span>
+				<a class="morechanalonlist" href="#khalijefars" title="پخش زنده شبکه خلیج فارس" onclick="playme('khalijefars')">مشاهده</a>
+				</li>                
+				<li class="ff-item-type-1">
+				<img src="/templates/total/images/sima/azarbayjan-min.png" alt="پخش زنده شبکه آذربایجان" title="پخش زنده شبکه آذربایجان" width="95px" height="95px"><span>شبکه آذربایجان</span>
+				<a class="morechanalonlist" href="#" title="پخش زنده شبکه آذربایجان" onclick="playme('azarbayjan')">مشاهده</a>
+				</li>
+				<li class="ff-item-type-1">
+				<img src="/templates/total/images/sima/bushehr-min.png" alt="پخش زنده شبکه بوشهر" title="پخش زنده شبکه بوشهر" width="95px" height="95px"><span>شبکه بوشهر</span>
+				<a class="morechanalonlist" href="#" title="پخش زنده شبکه بوشهر" onclick="playme('bushehr')">مشاهده</a>
+				</li>
+				<li class="ff-item-type-1">
+				<img src="/templates/total/images/sima/dena-min.png" alt="پخش زنده شبکه دنا" title="پخش زنده شبکه دنا" width="95px" height="95px"><span>شبکه دنا</span>
+				<a class="morechanalonlist" href="#" title="پخش زنده شبکه دنا" onclick="playme('dena')">مشاهده</a>
+				</li>
+                <li class="ff-item-type-1">
+                <img src="/templates/total/images/sima/aflak-min.png" alt="پخش زنده شبکه افلاک" title="پخش زنده شبکه افلاک" width="95px" height="95px"><span>شبکه افلاک</span>
+                <a class="morechanalonlist" href="#" title="پخش زنده شبکه افلاک" onclick="playme('aflak')">مشاهده</a>
+                </li>
+                <li class="ff-item-type-1">
+                <img src="/templates/total/images/sima/aftab-min.png" alt="پخش زنده شبکه آفتاب" title="پخش زنده شبکه آفتاب" width="95px" height="95px"><span>شبکه آفتاب</span>
+                <a class="morechanalonlist" href="#" title="پخش زنده شبکه آفتاب" onclick="playme('aftab')">مشاهده</a>
+                </li>
+                <li class="ff-item-type-1">
+                <img src="/templates/total/images/sima/baran-min.jpg" alt="پخش زنده شبکه باران" title="پخش زنده شبکه باران" width="95px" height="95px"><span>شبکه باران</span>
+                <a class="morechanalonlist" href="#" title="پخش زنده شبکه باران" onclick="playme('baran')">مشاهده</a>
+                </li>
+                <li class="ff-item-type-1">
+                <img src="/templates/total/images/sima/kordestan-min.png" alt="پخش زنده شبکه کردستان" title="پخش زنده شبکه کردستان" width="95px" height="95px"><span>شبکه کردستان</span>
+                <a class="morechanalonlist" href="#" title="پخش زنده شبکه کردستان" onclick="playme('kordestan')">مشاهده</a>
+                </li>
+                <li class="ff-item-type-1">
+                <img src="/templates/total/images/sima/sahand-min.png" alt="پخش زنده شبکه سهند" title="پخش زنده شبکه سهند" width="95px" height="95px"><span>شبکه سهند</span>
+                <a class="morechanalonlist" href="#" title="پخش زنده شبکه سهند" onclick="playme('sahand')">مشاهده</a>
+                </li>
+                <li class="ff-item-type-1">
+                <img src="/templates/total/images/sima/semnan-min.png" alt="پخش زنده شبکه سمنان" title="پخش زنده شبکه سمنان" width="95px" height="95px"><span>شبکه سمنان</span>
+                <a class="morechanalonlist" href="#" title="پخش زنده شبکه سمنان" onclick="playme('semnan')">مشاهده</a>
+                </li>
+				<li class="ff-item-type-1">
+				<img src="/templates/total/images/sima/noor-min.png" alt="پخش زنده شبکه نور" title="پخش زنده شبکه نور" width="95px" height="95px"><span>شبکه نور</span>
+				<a class="morechanalonlist" href="#" title="پخش زنده شبکه نور" onclick="playme('noor')">مشاهده</a>
+				</li>
+				<li class="ff-item-type-1">
+				<img src="/templates/total/images/sima/eshragh-min.png" alt="پخش زنده شبکه اشراق" title="پخش زنده شبکه اشراق" width="95px" height="95px"><span>شبکه اشراق</span>
+				<a class="morechanalonlist" href="#" title="پخش زنده شبکه اشراق" onclick="playme('eshragh')">مشاهده</a>
+				</li>
+				<li class="ff-item-type-1">
+				<img src="/templates/total/images/sima/qazvin-min.png" alt="پخش زنده شبکه قزوین" title="پخش زنده شبکه قزوین" width="95px" height="95px"><span>شبکه قزوین</span>
+				<a class="morechanalonlist" href="#" title="پخش زنده شبکه قزوین" onclick="playme('qazvin')">مشاهده</a>
+				</li>
+				<li class="ff-item-type-1">
+				<img src="/templates/total/images/sima/hamedan-min.png" alt="پخش زنده شبکه همدان" title="پخش زنده شبکه همدان" width="95px" height="95px"><span>شبکه همدان</span>
+				<a class="morechanalonlist" href="#" title="پخش زنده شبکه همدان" onclick="playme('hamedan')">مشاهده</a>
+				</li>
+				<li class="ff-item-type-1">
+				<img src="/templates/total/images/sima/hamoon-min.png" alt="پخش زنده شبکه هامون" title="پخش زنده شبکه هامون" width="95px" height="95px"><span>شبکه هامون</span>
+				<a class="morechanalonlist" href="#" title="پخش زنده شبکه هامون" onclick="playme('hamoon')">مشاهده</a>
+				</li>
+				<li class="ff-item-type-1">
+				<img src="/templates/total/images/sima/jahanbin-min.png" alt="پخش زنده شبکه جهان بین" title="پخش زنده شبکه جهان بین" width="95px" height="95px"><span>شبکه جهان بین</span>
+				<a class="morechanalonlist" href="#" title="پخش زنده شبکه جهان بین" onclick="playme('jahanbin')">مشاهده</a>
+				</li>
+				<li class="ff-item-type-1">
+				<img src="/templates/total/images/sima/kerman-min.png" alt="پخش زنده شبکه کرمان" title="پخش زنده شبکه کرمان" width="95px" height="95px"><span>شبکه کرمان</span>
+				<a class="morechanalonlist" href="#" title="پخش زنده شبکه کرمان" onclick="playme('kerman')">مشاهده</a>
+				</li>
+				<li class="ff-item-type-1">
+				<img src="/templates/total/images/sima/taban-min.png" alt="پخش زنده شبکه تابان" title="پخش زنده شبکه تابان" width="95px" height="95px"><span>شبکه تابان</span>
+				<a class="morechanalonlist" href="#" title="پخش زنده شبکه کرمان" onclick="playme('taban')">مشاهده</a>
+				</li>
+				<li class="ff-item-type-1">
+				<img src="/templates/total/images/sima/kjonoobi-min.jpg" alt="پخش زنده شبکه خراسان جنوبی" title="پخش زنده شبکه خراسان جنوبی" width="95px" height="95px"><span>شبکه خراسان جنوبی</span>
+				<a class="morechanalonlist" href="#khorasan-jonoobi" title="پخش زنده شبکه خراسان جنوبی" onclick="playme('khorasanjonoobi')">مشاهده</a>
+				</li>
+				<li class="ff-item-type-2">
+                    <img src="/templates/total/images/seda/ava-min.png" alt="پخش زنده رادیو آوا" title="پخش زنده رادیو آوا" width="95px" height="95px"><span>رادیو آوا</span>
+                    <a class="morechanalonlist" href="#" title="پخش زنده رادیو آوا" onclick="playra('r-ava')">مشاهده</a>
+                </li>
+				<li class="ff-item-type-2">
+                    <img src="/templates/total/images/seda/eghtesad-min.png" alt="پخش زنده رادیو اقتصاد" title="پخش زنده رادیو اقتصاد" width="95px" height="95px"><span>رادیو اقتصاد</span>
+                    <a class="morechanalonlist" href="#" title="پخش زنده رادیو اقتصاد" onclick="playra('r-eghtesad')">مشاهده</a>
+                </li>
+				<li class="ff-item-type-2">
+                    <img src="/templates/total/images/seda/iran-min.png" alt="پخش زنده رادیو ایران" title="پخش زنده رادیو ایران" width="95px" height="95px"><span>رادیو ایران</span>
+                    <a class="morechanalonlist" href="#" title="پخش زنده رادیو ایران" onclick="playra('r-iran')">مشاهده</a>
+                </li>
+				<li class="ff-item-type-2">
+                    <img src="/templates/total/images/seda/payam-min.png" alt="پخش زنده رادیو پیام" title="پخش زنده رادیو پیام" width="95px" height="95px"><span>رادیو پیام</span>
+                    <a class="morechanalonlist" href="#" title="پخش زنده رادیو پیام" onclick="playra('r-payam')">مشاهده</a>
+                </li>
+				<li class="ff-item-type-2">
+                    <img src="/templates/total/images/seda/tehran-min.png" alt="پخش زنده رادیو تهران" title="پخش زنده رادیو تهران" width="95px" height="95px"><span>رادیو تهران</span>
+                    <a class="morechanalonlist" href="#" title="پخش زنده رادیو تهران" onclick="playra('r-tehran')">مشاهده</a>
+                </li>
+				<li class="ff-item-type-2">
+                    <img src="/templates/total/images/seda/javan-min.png" alt="پخش زنده رادیو جوان" title="پخش زنده رادیو جوان" width="95px" height="95px"><span>رادیو جوان</span>
+                    <a class="morechanalonlist" href="#" title="پخش زنده رادیو جوان" onclick="playra('r-javan')">مشاهده</a>
+                </li>
+				<li class="ff-item-type-2">
+                    <img src="/templates/total/images/seda/salamat-min.png" alt="پخش زنده رادیو سلامت" title="پخش زنده رادیو سلامت" width="95px" height="95px"><span>رادیو سلامت</span>
+                    <a class="morechanalonlist" href="#" title="پخش زنده رادیو سلامت" onclick="playra('r-salamat')">مشاهده</a>
+                </li>
+				<li class="ff-item-type-2">
+                    <img src="/templates/total/images/seda/farhang-min.png" alt="پخش زنده رادیو فرهنگ" title="پخش زنده رادیو فرهنگ" width="95px" height="95px"><span>رادیو فرهنگ</span>
+                    <a class="morechanalonlist" href="#" title="پخش زنده رادیو فرهنگ" onclick="playra('r-farhang')">مشاهده</a>
+                </li>
+				<li class="ff-item-type-2">
+                    <img src="/templates/total/images/seda/quran-min.png" alt="پخش زنده رادیو قرآن" title="پخش زنده رادیو قرآن" width="95px" height="95px"><span>رادیو قرآن</span>
+                    <a class="morechanalonlist" href="#" title="پخش زنده رادیو قرآن" onclick="playra('r-quran')">مشاهده</a>
+                </li>
+                <li class="ff-item-type-2">
+                    <img src="/templates/total/images/seda/talavat-min.png" alt="پخش زنده رادیو تلاوت" title="پخش زنده رادیو تلاوت" width="95px" height="95px"><span>رادیو تلاوت</span>
+                    <a class="morechanalonlist" href="#r-talavat" title="پخش زنده رادیو تلاوت" onclick="playra('r-talavat')">مشاهده</a>
+                </li>
+                <li class="ff-item-type-2">
+                    <img src="/templates/total/images/seda/saba-min.png" alt="پخش زنده رادیو صبا" title="پخش زنده رادیو صبا" width="95px" height="95px"><span>رادیو صبا</span>
+                    <a class="morechanalonlist" href="#r-saba" title="پخش زنده رادیو صبا" onclick="playra('r-saba')">مشاهده</a>
+                </li>
+				<li class="ff-item-type-2">
+                    <img src="/templates/total/images/seda/goftogoo-min.png" alt="پخش زنده رادیو گفت و گو" title="پخش زنده رادیو گفت و گو" width="95px" height="95px"><span>رادیو گفت و گو</span>
+                    <a class="morechanalonlist" href="#" title="پخش زنده رادیو گفت و گو" onclick="playra('r-goftegoo')">مشاهده</a>
+                </li>
+				<li class="ff-item-type-2">
+                    <img src="/templates/total/images/seda/arbaeen-min.jpg" alt="پخش زنده رادیو اربعين" title="پخش زنده رادیو اربعين" width="95px" height="95px"><span>رادیو اربعين</span>
+                    <a class="morechanalonlist" href="#" title="پخش زنده رادیو اربعين" onclick="playra('r-arbaeen')">مشاهده</a>
+                </li>
+				<li class="ff-item-type-2">
+                    <img src="/templates/total/images/seda/ma'aref-min.png" alt="پخش زنده رادیو معارف" title="پخش زنده رادیو معارف" width="95px" height="95px"><span>رادیو معارف</span>
+                    <a class="morechanalonlist" href="#" title="پخش زنده رادیو معارف" onclick="playra('r-maaref')">مشاهده</a>
+                </li>
+				<li class="ff-item-type-2">
+                    <img src="/templates/total/images/seda/namayesh-min.png" alt="پخش زنده رادیو نمایش" title="پخش زنده رادیو نمایش" width="95px" height="95px"><span>رادیو نمایش</span>
+                    <a class="morechanalonlist" href="#" title="پخش زنده رادیو نمایش" onclick="playra('r-namayesh')">مشاهده</a>
+                </li>
+				<li class="ff-item-type-2">
+                    <img src="/templates/total/images/seda/varzesh-min.png" alt="پخش زنده رادیو ورزش" title="پخش زنده رادیو ورزش" width="95px" height="95px"><span>رادیو ورزش</span>
+                    <a class="morechanalonlist" href="#" title="پخش زنده رادیو ورزش" onclick="playra('r-varzesh')">مشاهده</a>
+                </li>
+				
+				<li class="ff-item-type-2">
+                    <img src="/templates/total/images/seda/dari-min.png" alt="پخش زنده رادیو دری" title="پخش زنده رادیو دری" width="95px" height="95px"><span>رادیو دری</span>
+                    <a class="morechanalonlist" href="#" title="پخش زنده رادیو دری" onclick="playra('r-dari')">مشاهده</a>
+                </li>
+				<li class="ff-item-type-2">
+                    <img src="/templates/total/images/seda/world1-min.png" alt="پخش زنده رادیو برون مرزی 1" title="پخش زنده رادیو برون مرزی 1"  width="95px" height="95px"><span>رادیو برون مرزی 1</span>
+                    <a class="morechanalonlist" href="#" title="پخش زنده رادیو برون مرزی 1" onclick="playra('r-world1')">مشاهده</a>
+                </li>
+				<li class="ff-item-type-2">
+                    <img src="/templates/total/images/seda/world2-min.png" alt="پخش زنده رادیو برون مرزی 2" title="پخش زنده رادیو برون مرزی 2"  width="95px" height="95px"><span>رادیو برون مرزی 2</span>
+                    <a class="morechanalonlist" href="#" title="پخش زنده رادیو برون مرزی 2" onclick="playra('r-world2')">مشاهده</a>
+                </li>
+				<li class="ff-item-type-2">
+                    <img src="/templates/total/images/seda/world3-min.png" alt="پخش زنده رادیو برون مرزی 3" title="پخش زنده رادیو برون مرزی 3"  width="95px" height="95px"><span>رادیو برون مرزی 3</span>
+                    <a class="morechanalonlist" href="#" title="پخش زنده رادیو برون مرزی 3" onclick="playra('r-world3')">مشاهده</a>
+                </li>
+				<li class="ff-item-type-2">
+                    <img src="/templates/total/images/seda/world4-min.png" alt="پخش زنده رادیو برون مرزی 4" title="پخش زنده رادیو برون مرزی 4"  width="95px" height="95px"><span>رادیو برون مرزی 4</span>
+                    <a class="morechanalonlist" href="#" title="پخش زنده رادیو برون مرزی 4" onclick="playra('r-world4')">مشاهده</a>
+                </li>
+				<li class="ff-item-type-2">
+                    <img src="/templates/total/images/seda/world5-min.png" alt="پخش زنده رادیو برون مرزی 5" title="پخش زنده رادیو برون مرزی 5"  width="95px" height="95px"><span>رادیو برون مرزی 5</span>
+                    <a class="morechanalonlist" href="#" title="پخش زنده رادیو برون مرزی 5" onclick="playra('r-world5')">مشاهده</a>
+                </li>
+				<li class="ff-item-type-2">
+                    <img src="/templates/total/images/seda/world6-min.png" alt="پخش زنده رادیو برون مرزی 6" title="پخش زنده رادیو برون مرزی 6"  width="95px" height="95px"><span>رادیو برون مرزی 6</span>
+                    <a class="morechanalonlist" href="#" title="پخش زنده رادیو برون مرزی 6" onclick="playra('r-world6')">مشاهده</a>
+                </li>
+				
+            </ul>
+</section>
+</div>
+</section>
+    <section class="container-fluid tetxtview">
+<p class="container center" dir="rtl">
+بنا به ملاحظات فرهنگی و امنیتی، حقوق نشر پخش زنده ی سازمان در بستر IP تا پایان فرایند کارگزاری IPTV سازمان صدا و سیما، در انحصار سازمان صدا و سیما میباشد. 
+هرگونه سوء استفاده از این سرویس بدون هماهنگی با این سازمان تحت پیگرد قانونی قرارخواهد گرفت.
+</p>
+</section>
+<footer class="container-fluid">
+    <div class="container"> <p>کلیه حقوق برای سایت <a href="http://irib.ir/" title="صدا و سیمای جمهوری اسلامی ایران">صدا و سیمای جمهوری اسلامی ایران </a>محفوظ می باشد.</p> </div>
+</footer>
+<script src="/templates/total/bootstrap/js/bootstrap.min.js"></script>
+<script src="/templates/total/owl-carousel/owl.carousel.min.js"></script>
+<script src="/templates/total/scripts/jquery.mCustomScrollbar.concat.min.js"></script>
+<script src="/templates/total/scripts/js.min.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-64085786-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>
+
+<!-- Parastoo Framework Copyright (http://phpmasters.ir) -->
